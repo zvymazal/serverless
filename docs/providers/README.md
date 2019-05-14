@@ -16,81 +16,57 @@ Under the hood, the serverless framework is deploying your code to a cloud provi
   <div class="docsSection">
     <div class="docsSectionHeader">
       <a href="./aws/">
-        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/aws-black.png" width="250" draggable="false"/>
+        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/aws-logo.svg" width="250" draggable="false"/>
       </a>
-    </div>
-    <div style="text-align:center;">
-      <a href="./aws/">AWS Docs</a>
     </div>
   </div>
   <div class="docsSection">
     <div class="docsSectionHeader">
       <a href="./azure/">
-        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/azure-black.png" width="250" draggable="false"/>
+        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/azure-logo.svg" width="250" draggable="false"/>
       </a>
-    </div>
-    <div style="text-align:center;">
-      <a href="./azure/">Azure Functions Docs</a>
     </div>
   </div>
   <div class="docsSection">
     <div class="docsSectionHeader">
       <a href="./openwhisk/">
-        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/openwhisk-black.png" width="250" draggable="false"/>
+        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/openwhisk-logo.svg" width="250" draggable="false"/>
       </a>
-    </div>
-    <div style="text-align:center;">
-      <a href="./openwhisk/">OpenWhisk Docs</a>
     </div>
   </div>
   <div class="docsSection">
     <div class="docsSectionHeader">
       <a href="./google/">
-        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/gcf-black.png" width="250" draggable="false"/>
+        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/google-logo.png" width="250" draggable="false"/>
       </a>
-    </div>
-    <div style="text-align:center;">
-      <a href="./google/">Cloud Functions Docs</a>
     </div>
   </div>
   <div class="docsSection">
     <div class="docsSectionHeader">
       <a href="./kubeless/">
-        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/docs/kubeless-logos-black.png" width="250" draggable="false"/>
+        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/kubeless-logo.svg" width="250" draggable="false"/>
       </a>
-    </div>
-    <div style="text-align:center;">
-      <a href="./kubeless/">Kubeless Docs</a>
     </div>
   </div>
   <div class="docsSection">
     <div class="docsSectionHeader">
       <a href="./spotinst/">
-        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/docs/spotinst-logos-black-small.png" width="250" draggable="false"/>
+        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/spotinst-logo.svg" width="250" draggable="false"/>
       </a>
-    </div>
-    <div style="text-align:center;">
-      <a href="./spotinst/">Spotinst Docs</a>
     </div>
   </div>
   <div class="docsSection">
     <div class="docsSectionHeader">
       <a href="./fn/">
-        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/docs/fn-logo-black.png" width="250" draggable="false"/>
+        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/fn-logo.svg" width="250" draggable="false"/>
       </a>
-    </div>
-    <div style="text-align:center;">
-      <a href="./fn/">Fn Docs</a>
     </div>
   </div>
   <div class="docsSection">
     <div class="docsSectionHeader">
       <a href="./cloudflare/">
-        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/docs/cloudflare/cf-logo-v-dark-gray.png" width="250" draggable="false"/>
+        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/cloudflare-logo.svg" width="250" draggable="false"/>
       </a>
-    </div>
-    <div style="text-align:center;">
-      <a href="./cloudflare/">Cloudflare Workers Docs</a>
     </div>
   </div>
 

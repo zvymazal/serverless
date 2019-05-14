@@ -35,88 +35,64 @@ Under the hood, the serverless framework is deploying your code to a cloud provi
   <a href="/framework/docs/providers/aws/guide/quick-start">
     <div class="docsSection">
       <div class="docsSectionHeader">
-        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/aws-black.png" width="250"
+        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/aws-logo.svg" width="250"
           draggable="false" />
-      </div>
-      <div style="text-align:center;">
-        <span>Amazon Web Services<br />Quick Start Guide</span>
       </div>
     </div>
   </a>
   <a href="/framework/docs/providers/azure/guide/quick-start">
     <div class="docsSection">
       <div class="docsSectionHeader">
-        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/azure-black.png" width="250"
+        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/azure-logo.svg" width="250"
           draggable="false" />
-      </div>
-      <div style="text-align:center;">
-        <span>Azure Functions<br />Quick Start Guide</span>
       </div>
     </div>
   </a>
   <a href="/framework/docs/providers/openwhisk/guide/quick-start">
     <div class="docsSection">
       <div class="docsSectionHeader">
-        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/openwhisk-black.png" width="250"
+        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/openwhisk-logo.svg" width="250"
           draggable="false" />
-      </div>
-      <div style="text-align:center;">
-        <span>Apache OpenWhisk<br />Quick Start Guide</span>
       </div>
     </div>
   </a>
   <a href="/framework/docs/providers/google/guide/quick-start">
     <div class="docsSection">
       <div class="docsSectionHeader">
-        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/gcf-black.png" width="250"
+        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/google-logo.png" width="250"
           draggable="false" />
-      </div>
-      <div style="text-align:center;">
-        <span>Google Cloud Functions<br />Quick Start Guide</span>
       </div>
     </div>
   </a>
   <a href="/framework/docs/providers/kubeless/guide/quick-start">
     <div class="docsSection">
       <div class="docsSectionHeader">
-        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/docs/kubeless-logos-black.png"
+        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/kubeless-logo.svg"
           width="250" draggable="false" />
-      </div>
-      <div style="text-align:center;">
-        <span>Kubeless<br />Quick Start Guide</span>
       </div>
     </div>
   </a>
   <a href="/framework/docs/providers/spotinst/guide/quick-start">
     <div class="docsSection">
       <div class="docsSectionHeader">
-        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/docs/spotinst-logos-black-small.png"
+        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/spotinst-logo.svg"
           width="250" draggable="false" />
-      </div>
-      <div style="text-align:center;">
-        <span>Spotinst<br />Quick Start Guide</span>
       </div>
     </div>
   </a>
   <a href="/framework/docs/providers/fn/guide/quick-start">
     <div class="docsSection">
       <div class="docsSectionHeader">
-        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/docs/fn-logo-black.png" width="250"
+        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/fn-logo.svg" width="250"
           draggable="false" />
-      </div>
-      <div style="text-align:center;">
-        <span>Fn<br />Quick Start Guide</span>
       </div>
     </div>
   </a>
   <a href="/framework/docs/providers/cloudflare/guide/quick-start">
     <div class="docsSection">
       <div class="docsSectionHeader">
-        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/docs/cloudflare/cf-logo-v-dark-gray.png"
+        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/cloudflare-logo.svg"
           width="250" draggable="false" />
-      </div>
-      <div style="text-align:center;">
-        <span>Cloudflare Workers<br />Quick Start Guide</span>
       </div>
     </div>
   </a>
