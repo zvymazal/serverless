@@ -32,68 +32,68 @@ Next up, it's time to choose where you'd like your serverless service to run.
 Under the hood, the serverless framework is deploying your code to a cloud provider like AWS, Microsoft Azure, Apache OpenWhisk or Google Cloud functions.
 
 <div class="providerSections">
-  <a href="/framework/docs/providers/aws/guide/quick-start">
     <div class="providerSection">
       <div class="providerSectionHeader">
+      <a href="/framework/docs/providers/aws/guide/quick-start">
         <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/aws-logo.svg" width="250"
           draggable="false" />
+          </a>
       </div>
     </div>
-  </a>
-  <a href="/framework/docs/providers/azure/guide/quick-start">
     <div class="providerSection">
       <div class="providerSectionHeader">
+      <a href="/framework/docs/providers/azure/guide/quick-start">
         <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/azure-logo.svg" width="250"
           draggable="false" />
+          </a>
       </div>
     </div>
-  </a>
-  <a href="/framework/docs/providers/openwhisk/guide/quick-start">
     <div class="providerSection">
       <div class="providerSectionHeader">
+      <a href="/framework/docs/providers/openwhisk/guide/quick-start">
         <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/openwhisk-logo.svg" width="250"
           draggable="false" />
+          </a>
       </div>
     </div>
-  </a>
-  <a href="/framework/docs/providers/google/guide/quick-start">
     <div class="providerSection">
       <div class="providerSectionHeader">
+      <a href="/framework/docs/providers/google/guide/quick-start">
         <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/google-logo.png" width="250"
           draggable="false" />
+          </a>
       </div>
     </div>
-  </a>
-  <a href="/framework/docs/providers/kubeless/guide/quick-start">
     <div class="providerSection">
       <div class="providerSectionHeader">
+        <a href="/framework/docs/providers/kubeless/guide/quick-start">
         <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/kubeless-logo.svg"
           width="250" draggable="false" />
+          </a>
       </div>
     </div>
-  </a>
-  <a href="/framework/docs/providers/spotinst/guide/quick-start">
     <div class="providerSection">
       <div class="providerSectionHeader">
+      <a href="/framework/docs/providers/spotinst/guide/quick-start">
         <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/spotinst-logo.svg"
           width="250" draggable="false" />
+          </a>
       </div>
     </div>
-  </a>
-  <a href="/framework/docs/providers/fn/guide/quick-start">
     <div class="providerSection">
       <div class="providerSectionHeader">
+      <a href="/framework/docs/providers/fn/guide/quick-start">
         <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/fn-logo.svg" width="250"
           draggable="false" />
+          </a>
       </div>
     </div>
-  </a>
-  <a href="/framework/docs/providers/cloudflare/guide/quick-start">
     <div class="providerSection">
       <div class="providerSectionHeader">
+      <a href="/framework/docs/providers/cloudflare/guide/quick-start">
         <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/cloudflare-logo.svg"
           width="250" draggable="false" />
+          </a>
       </div>
     </div>
-  </a>
 </div>
