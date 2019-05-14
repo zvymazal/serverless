@@ -33,60 +33,60 @@ Already using AWS or another cloud provider? Read on.
 ## Providers
 
 <div class="providersSections">
+  <a href="./providers/aws/">
   <div class="providerSection">
     <div class="providerSectionHeader">
-      <a href="./providers/aws/">
         <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/aws-logo.svg" width="250" draggable="false"/>
-      </a>
     </div>
   </div>
+  </a>
+  <a href="./providers/azure/">
   <div class="providerSection">
     <div class="providerSectionHeader">
-      <a href="./providers/azure/">
         <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/azure-logo.svg" width="250" draggable="false"/>
-      </a>
     </div>
   </div>
+  </a>
+  <a href="./providers/openwhisk/">
   <div class="providerSection">
     <div class="providerSectionHeader">
-      <a href="./providers/openwhisk/">
         <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/openwhisk-logo.svg" width="250" draggable="false"/>
-      </a>
     </div>
   </div>
+  </a>
+  <a href="./providers/google/">
   <div class="providerSection">
     <div class="providerSectionHeader">
-      <a href="./providers/google/">
         <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/google-logo.png" width="250" draggable="false"/>
-      </a>
     </div>
   </div>
+  </a>
+  <a href="./providers/kubeless/">
   <div class="providerSection">
     <div class="providerSectionHeader">
-      <a href="./providers/kubeless/">
         <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/kubeless-logo.svg" width="250" draggable="false"/>
-      </a>
     </div>
   </div>
+  </a>
+  <a href="./providers/spotinst/">
   <div class="providerSection">
     <div class="providerSectionHeader">
-      <a href="./providers/spotinst/">
         <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/spotinst-logo.svg" width="250" draggable="false"/>
-      </a>
     </div>
   </div>
+  </a>
+  <a href="./providers/fn/">
   <div class="providerSection">
     <div class="providerSectionHeader">
-      <a href="./providers/fn/">
         <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/fn-logo.svg" width="250" draggable="false"/>
-      </a>
     </div>
   </div>
+  </a>
+  <a href="./providers/cloudflare/">
   <div class="providerSection">
     <div class="providerSectionHeader">
-      <a href="./providers/cloudflare/">
         <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/cloudflare-logo.svg" width="250" draggable="false"/>
-      </a>
     </div>
   </div>
+  </a>
 </div>
