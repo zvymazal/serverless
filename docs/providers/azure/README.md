@@ -10,9 +10,7 @@ layout: Doc
 
 # Azure Functions Provider Documentation
 
-Welcome to the Serverless Azure Functions documentation!
-
-If you have any questions, [search the forums](https://forum.serverless.com?utm_source=framework-docs) or [start your own thread](https://forum.serverless.com?utm_source=framework-docs)
+Welcome to the Serverless Azure Functions documentation. If you have any questions, [search the forums](https://forum.serverless.com?utm_source=framework-docs) or [start your own thread](https://forum.serverless.com?utm_source=framework-docs)
 
 **Note:** [Azure Functions system credentials](./guide/credentials.md) are required for using serverless + Azure Functions.
 

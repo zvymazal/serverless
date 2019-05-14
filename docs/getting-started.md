@@ -14,7 +14,7 @@ menuItems:
   - {menuText: Cloudflare Workers Guide, path: /framework/docs/providers/cloudflare/guide/quick-start}
 -->
 
-# Getting Started with Serverless
+# Getting Started with Serverless Open Source
 
 First things first, let's get the Serverless framework installed on your machine.
 
@@ -28,6 +28,8 @@ npm update -g serverless
 Next up, it's time to choose where you'd like your serverless service to run.
 
 ## Choose your compute provider
+
+Under the hood, the serverless framework is deploying your code to a cloud provider like AWS, Microsoft Azure, Apache OpenWhisk or Google Cloud functions.
 
 <div class="docsSections">
   <a href="/framework/docs/providers/aws/guide/quick-start">

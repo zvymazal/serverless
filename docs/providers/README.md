@@ -8,7 +8,7 @@ layout: Doc
 ### [Read this on the main serverless docs site](https://www.serverless.com/framework/docs/providers/)
 <!-- DOCS-SITE-LINK:END -->
 
-# Serverless Infrastructure Providers
+# Choose your compute provider
 
 Under the hood, the serverless framework is deploying your code to a cloud provider like AWS, Microsoft Azure, Apache OpenWhisk or Google Cloud functions.
 

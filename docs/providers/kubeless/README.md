@@ -10,9 +10,7 @@ layout: Doc
 
 # Kubeless Provider Documentation
 
-Welcome to the Serverless Kubeless documentation!
-
-If you have any questions, [search the forums](https://forum.serverless.com?utm_source=framework-docs) or [start your own thread](https://forum.serverless.com?utm_source=framework-docs)
+Welcome to the Serverless Kubeless documentation. If you have any questions, [search the forums](https://forum.serverless.com?utm_source=framework-docs) or [start your own thread](https://forum.serverless.com?utm_source=framework-docs)
 
 <div class="docsSections">
   <div class="docsSection">
