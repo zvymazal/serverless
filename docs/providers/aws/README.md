@@ -8,6 +8,9 @@ layout: Doc
 ### [Read this on the main serverless docs site](https://www.serverless.com/framework/docs/)
 <!-- DOCS-SITE-LINK:END -->
 
+<div class="docsProviderBanner">
+  <img src='https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/docs/providers/aws.svg' class='aws-logo''>
+</div>
 # AWS Provider Documentation
 
 Welcome to the Serverless AWS Functions documentation. If you have any questions, [search the forums](https://forum.serverless.com?utm_source=framework-docs) or [start your own thread](https://forum.serverless.com?utm_source=framework-docs)
@@ -16,7 +19,7 @@ Welcome to the Serverless AWS Functions documentation. If you have any questions
 
 <div class="docsSections">
   <div class="docsSection">
-    <div class="docsSectionHeader">
+    <div class="docsSectionSubHeader">
       <h4>Guides</h4>
     </div>
     <div class="docsProviderItems">
@@ -41,7 +44,7 @@ Welcome to the Serverless AWS Functions documentation. If you have any questions
   </div>
 
   <div class="docsSection">
-    <div class="docsSectionHeader">
+    <div class="docsSectionSubHeader">
       <h4>CLI references</h4>
     </div>
     <div class="docsProviderItems">
@@ -73,7 +76,7 @@ Welcome to the Serverless AWS Functions documentation. If you have any questions
   </div>
 
   <div class="docsSection">
-    <div class="docsSectionHeader">
+    <div class="docsSectionSubHeader">
       <h4>Events</h4>
     </div>
     <div class="docsProviderItems">
@@ -96,7 +99,7 @@ Welcome to the Serverless AWS Functions documentation. If you have any questions
   </div>
 
   <div class="docsSection">
-    <div class="docsSectionHeader">
+    <div class="docsSectionSubHeader">
       <h4>Examples</h4>
     </div>
     <div>
