@@ -45,7 +45,7 @@ Welcome to the Serverless Google Cloud Functions documentation. If you have any 
     <div class="docsSectionSubHeader">
       <h4>CLI References</h4>
     </div>
-    <div>
+    <div class="docsProviderItems">
       <ul>
         <li><a href="./cli-reference/create.md">Create</a></li>
         <li><a href="./cli-reference/install.md">Install</a></li>
@@ -69,7 +69,7 @@ Welcome to the Serverless Google Cloud Functions documentation. If you have any 
     <div class="docsSectionSubHeader">
       <h4>Events</h4>
     </div>
-    <div>
+    <div class="docsProviderItems">
       <ul>
         <li><a href="./events/http.md">HTTP</a></li>
         <li><a href="./events/event.md">Event</a></li>
@@ -82,7 +82,7 @@ Welcome to the Serverless Google Cloud Functions documentation. If you have any 
       <h4>Examples</h4>
     </div>
     <div>
-      <div>
+      <div class="docsProviderItems">
         <ul>
           <li><a href="./examples/hello-world">Hello World</a></li>
         </ul>

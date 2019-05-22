@@ -46,7 +46,7 @@ Welcome to the Serverless Azure Functions documentation. If you have any questio
     <div class="docsSectionSubHeader">
       <h4>CLI References</h4>
     </div>
-    <div>
+    <div class="docsProviderItems">
       <ul>
         <li><a href="./cli-reference/install.md">Install</a></li>
         <li><a href="./cli-reference/deploy.md">Deploy</a></li>
@@ -68,7 +68,7 @@ Welcome to the Serverless Azure Functions documentation. If you have any questio
     <div class="docsSectionSubHeader">
       <h4>Events</h4>
     </div>
-    <div>
+    <div class="docsProviderItems">
       <ul>
         <li><a href="./events/http.md">HTTP</a></li>
         <li><a href="./events/timer.md">Timer</a></li>
@@ -85,12 +85,10 @@ Welcome to the Serverless Azure Functions documentation. If you have any questio
     <div class="docsSectionSubHeader">
       <h4>Examples</h4>
     </div>
-    <div>
-      <div>
+    <div class="docsProviderItems">
         <ul>
           <li><a href="./examples/hello-world">Hello World</a></li>
         </ul>
       </div>
-    </div>
   </div>
 </div>

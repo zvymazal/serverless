@@ -36,7 +36,7 @@ Welcome to the Serverless Fn documentation. If you have any questions, [search t
     <div class="docsSectionSubHeader">
       <h4>CLI References</h4>
     </div>
-    <div>
+    <div class="docsProviderItems">
       <ul>
         <li><a href="./cli-reference/create.md">Create</a></li>
         <li><a href="./cli-reference/deploy.md">Deploy</a></li>
@@ -56,7 +56,7 @@ Welcome to the Serverless Fn documentation. If you have any questions, [search t
     <div class="docsSectionSubHeader">
       <h4>Events References</h4>
     </div>
-    <div>
+    <div class="docsProviderItems">
       <ul>
         <li><a href="./events/http.md">HTTP Events</a></li>
       </ul>

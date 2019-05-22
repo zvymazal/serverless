@@ -41,7 +41,7 @@ Welcome to the Serverless Spotinst documentation. If you have any questions, [se
     <div class="docsSectionSubHeader">
       <h4>CLI References</h4>
     </div>
-    <div>
+    <div class="docsProviderItems">
       <ul>
         <li><a href="./cli-reference/config-credentials.md">Config Credentials</a></li>
         <li><a href="./cli-reference/create.md">Create</a></li>
@@ -64,7 +64,7 @@ Welcome to the Serverless Spotinst documentation. If you have any questions, [se
     <div class="docsSectionSubHeader">
       <h4>Events</h4>
     </div>
-    <div>
+    <div class="docsProviderItems">
       <ul>
         <li><a href="./events/http.md">HTTP</a></li>
         <li><a href="./events/schedule.md">Schedule</a></li>
@@ -76,12 +76,10 @@ Welcome to the Serverless Spotinst documentation. If you have any questions, [se
     <div class="docsSectionSubHeader">
       <h4>Examples</h4>
     </div>
-    <div>
-      <div>
+    <div class="docsProviderItems">
         <ul>
           <li><a href="./examples/">Hello World</a></li>
         </ul>
-      </div>
     </div>
   </div>
 </div>

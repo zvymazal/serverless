@@ -48,7 +48,7 @@ Welcome to the Serverless Apache OpenWhisk documentation. If you have any questi
     <div class="docsSectionSubHeader">
       <h4>CLI References</h4>
     </div>
-    <div>
+    <div class="docsProviderItems">
       <ul>
         <li><a href="./cli-reference/config-credentials.md">Config Credentials</a></li>
         <li><a href="./cli-reference/create.md">Create</a></li>
@@ -75,7 +75,7 @@ Welcome to the Serverless Apache OpenWhisk documentation. If you have any questi
     <div class="docsSectionSubHeader">
       <h4>Events</h4>
     </div>
-    <div>
+    <div class="docsProviderItems">
       <ul>
         <li><a href="./events/apigateway.md">API Gateway</a></li>
         <li><a href="./events/cloudant.md">Cloudant DB</a></li>
@@ -90,12 +90,10 @@ Welcome to the Serverless Apache OpenWhisk documentation. If you have any questi
     <div class="docsSectionSubHeader">
       <h4>Examples</h4>
     </div>
-    <div>
-      <div>
+    <div class="docsProviderItems">
         <ul>
           <li><a href="./examples/hello-world">Hello World</a></li>
         </ul>
-      </div>
     </div>
   </div>
 </div>
