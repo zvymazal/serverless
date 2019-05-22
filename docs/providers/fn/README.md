@@ -14,12 +14,10 @@ Welcome to the Serverless Fn documentation. If you have any questions, [search t
 
 <div class="docsSections">
   <div class="docsSection">
-    <div class="docsSectionHeader">
-      <a href="./guide/">
-        Fn Guide
-      </a>
+    <div class="docsSectionSubHeader">
+      <h4>Guides</h4>
     </div>
-    <div class="test">
+    <div class="docsProviderItems">
       <ul>
         <li><a href="./guide/intro.md">Intro</a></li>
         <li><a href="./guide/quick-start.md">Quickstart</a></li>
@@ -35,10 +33,8 @@ Welcome to the Serverless Fn documentation. If you have any questions, [search t
   </div>
 
   <div class="docsSection">
-    <div class="docsSectionHeader">
-      <a href="./cli-reference/">
-        Fn CLI Reference
-      </a>
+    <div class="docsSectionSubHeader">
+      <h4>CLI References</h4>
     </div>
     <div>
       <ul>
@@ -57,10 +53,8 @@ Welcome to the Serverless Fn documentation. If you have any questions, [search t
   </div>
 
   <div class="docsSection">
-    <div class="docsSectionHeader">
-      <a href="./events/">
-        Fn Events Reference
-      </a>
+    <div class="docsSectionSubHeader">
+      <h4>Events References</h4>
     </div>
     <div>
       <ul>

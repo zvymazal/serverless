@@ -8,6 +8,10 @@ layout: Doc
 ### [Read this on the main serverless docs site](https://www.serverless.com/framework/docs/)
 <!-- DOCS-SITE-LINK:END -->
 
+<div class="docsProviderBanner">
+  <img src='https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/docs/providers/openwhisk.svg' class='openwhisk-logo''>
+</div>
+
 # Apache OpenWhisk Provider Documentation
 
 Welcome to the Serverless Apache OpenWhisk documentation. If you have any questions, [search the forums](https://forum.serverless.com?utm_source=framework-docs) or [start your own thread](https://forum.serverless.com?utm_source=framework-docs)
@@ -16,12 +20,10 @@ Welcome to the Serverless Apache OpenWhisk documentation. If you have any questi
 
 <div class="docsSections">
   <div class="docsSection">
-    <div class="docsSectionHeader">
-      <a href="./guide/">
-      <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs_guide_openwhisk.jpg" alt="Serverless Framework Apache OpenWhisk Guide" width="250" draggable="false"/>
-      </a>
+    <div class="docsSectionSubHeader">
+      <h4>Guides</h4>
     </div>
-    <div class="test">
+    <div class="docsProviderItems">
       <ul>
         <li><a href="./guide/intro.md">Intro</a></li>
         <li><a href="./guide/quick-start.md">Quickstart</a></li>
@@ -43,10 +45,8 @@ Welcome to the Serverless Apache OpenWhisk documentation. If you have any questi
   </div>
 
   <div class="docsSection">
-    <div class="docsSectionHeader">
-      <a href="./cli-reference/">
-      <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs_cli_openwhisk.jpg" alt="Serverless Framework Apache OpenWhisk CLI Reference" width="250" draggable="false"/>
-      </a>
+    <div class="docsSectionSubHeader">
+      <h4>CLI References</h4>
     </div>
     <div>
       <ul>
@@ -72,10 +72,8 @@ Welcome to the Serverless Apache OpenWhisk documentation. If you have any questi
   </div>
 
   <div class="docsSection">
-    <div class="docsSectionHeader">
-      <a href="./events/">
-      <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs_events_openwhisk.jpg" alt="Serverless Framework Apache OpenWhisk Events"  width="250" draggable="false"/>
-      </a>
+    <div class="docsSectionSubHeader">
+      <h4>Events</h4>
     </div>
     <div>
       <ul>
@@ -89,10 +87,8 @@ Welcome to the Serverless Apache OpenWhisk documentation. If you have any questi
   </div>
 
   <div class="docsSection">
-    <div class="docsSectionHeader">
-      <a href="./examples/">
-      <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs_examples_openwhisk.jpg" alt="Serverless Framework Apache OpenWhisk Examples" width="250" draggable="false"/>
-      </a>
+    <div class="docsSectionSubHeader">
+      <h4>Examples</h4>
     </div>
     <div>
       <div>
