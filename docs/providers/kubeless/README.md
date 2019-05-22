@@ -9,7 +9,7 @@ layout: Doc
 <!-- DOCS-SITE-LINK:END -->
 
 <div class="docsProviderBanner">
-  <img src='https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/docs/providers/kubeless.svg' class='kubeless-logo''>
+  <img src='https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/kubeless-logo.svg' class='kubeless-logo''>
 </div>
 
 # Kubeless Provider Documentation

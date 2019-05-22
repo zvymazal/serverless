@@ -9,7 +9,7 @@ layout: Doc
 <!-- DOCS-SITE-LINK:END -->
 
 <div class="docsProviderBanner">
-  <img src='https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/docs/providers/aws.svg' class='aws-logo''>
+  <img src='https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/aws-logo.svg' class='aws-logo''>
 </div>
 
 # AWS Provider Documentation

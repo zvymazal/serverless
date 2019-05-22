@@ -9,7 +9,7 @@ layout: Doc
 <!-- DOCS-SITE-LINK:END -->
 
 <div class="docsProviderBanner">
-  <img src='https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/docs/providers/azure.svg' class='azure-logo''>
+  <img src='https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/azure-logo.svg' class='azure-logo''>
 </div>
 
 # Azure Functions Provider Documentation

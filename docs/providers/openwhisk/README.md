@@ -9,7 +9,7 @@ layout: Doc
 <!-- DOCS-SITE-LINK:END -->
 
 <div class="docsProviderBanner">
-  <img src='https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/docs/providers/openwhisk.svg' class='openwhisk-logo''>
+  <img src='https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/openwhisk-logo.svg' class='openwhisk-logo''>
 </div>
 
 # Apache OpenWhisk Provider Documentation

@@ -9,7 +9,7 @@ layout: Doc
 <!-- DOCS-SITE-LINK:END -->
 
 <div class="docsProviderBanner">
-  <img src='https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/docs/providers/gcp.jpg' class='google-logo''>
+  <img src='https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/google-logo.png' class='google-logo''>
 </div>
 
 # Serverless Google Cloud Functions Provider Documentation

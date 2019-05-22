@@ -8,6 +8,10 @@ layout: Doc
 ### [Read this on the main serverless docs site](https://www.serverless.com/framework/docs/)
 <!-- DOCS-SITE-LINK:END -->
 
+<div class="docsProviderBanner">
+  <img src='https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/fn-logo.svg' class='fn-logo''>
+</div>
+
 # Fn Provider Documentation
 
 Welcome to the Serverless Fn documentation. If you have any questions, [search the forums](https://forum.serverless.com?utm_source=framework-docs) or [start your own thread](https://forum.serverless.com?utm_source=framework-docs)
