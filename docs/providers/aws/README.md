@@ -11,6 +11,7 @@ layout: Doc
 <div class="docsProviderBanner">
   <img src='https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/docs/providers/aws.svg' class='aws-logo''>
 </div>
+
 # AWS Provider Documentation
 
 Welcome to the Serverless AWS Functions documentation. If you have any questions, [search the forums](https://forum.serverless.com?utm_source=framework-docs) or [start your own thread](https://forum.serverless.com?utm_source=framework-docs)
