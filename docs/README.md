@@ -21,7 +21,8 @@ menuItems:
 <!-- DOCS-SITE-LINK:END -->
 
 <div class='docs-center'>
-<h2>Providers</h2>
+
+# Providers
 <p>
 Under the hood, the serverless framework is deploying your code to a cloud provider like AWS, Microsoft Azure, Apache OpenWhisk or Google Cloud functions.
 </p>

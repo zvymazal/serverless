@@ -74,7 +74,7 @@ Under the hood, the serverless framework is deploying your code to a cloud provi
 <br/>
 <br/>
 
-## Connecting your provider
+# Connecting your provider
 
 To deploy functions, specify your provider in your service's `serverless.yml` file under the `provider` key and make sure your provider credentials are setup on your machine or CI/CD system.
 
