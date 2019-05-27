@@ -8,7 +8,7 @@ layout: Doc
 ### [Read this on the main serverless docs site](https://www.serverless.com/framework/docs/providers/google/cli-reference/)
 <!-- DOCS-SITE-LINK:END -->
 
-# Serverless Google Cloud Functions CLI Reference
+# Google Cloud Functions CLI Reference
 
 Welcome to the Serverless Google Cloud Functions CLI Reference!  Please select a section on the left to get started.
 
