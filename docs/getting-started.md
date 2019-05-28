@@ -34,56 +34,56 @@ Under the hood, the serverless framework is deploying your code to a cloud provi
 <div class="providersSections">
   <div class="providerSection">
     <div class="providerSectionHeader">
-      <a href="./aws/">
+      <a href="/framework/docs/providers/aws/guide/quick-start/">
         <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/aws-logo.svg" width="250" draggable="false"/>
       </a>
     </div>
   </div>
   <div class="providerSection">
     <div class="providerSectionHeader">
-      <a href="./azure/">
+      <a href="/framework/docs/providers/azure/guide/quick-start/">
         <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/azure-logo.svg" width="250" draggable="false"/>
       </a>
     </div>
   </div>
   <div class="providerSection">
     <div class="providerSectionHeader">
-      <a href="./openwhisk/">
+      <a href="/framework/docs/providers/openwhisk/guide/quick-start/">
         <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/openwhisk-logo.svg" width="250" draggable="false"/>
       </a>
     </div>
   </div>
   <div class="providerSection">
     <div class="providerSectionHeader">
-      <a href="./google/">
+      <a href="/framework/docs/providers/google/guide/quick-start/">
         <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/google-logo.png" width="250" draggable="false"/>
       </a>
     </div>
   </div>
   <div class="providerSection">
     <div class="providerSectionHeader">
-      <a href="./kubeless/">
+      <a href="/framework/docs/providers/kubeless/guide/quick-start/">
         <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/kubeless-logo.svg" width="250" draggable="false"/>
       </a>
     </div>
   </div>
   <div class="providerSection">
     <div class="providerSectionHeader">
-      <a href="./spotinst/">
+      <a href="/framework/docs/providers/spotinst/guide/quick-start/">
         <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/spotinst-logo.svg" width="250" draggable="false"/>
       </a>
     </div>
   </div>
   <div class="providerSection">
     <div class="providerSectionHeader">
-      <a href="./fn/">
+      <a href="/framework/docs/providers/fn/guide/quick-start/">
         <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/fn-logo.svg" width="250" draggable="false"/>
       </a>
     </div>
   </div>
   <div class="providerSection">
     <div class="providerSectionHeader">
-      <a href="./cloudflare/">
+      <a href="/framework/docs/providers/cloudflare/guide/quick-start/">
         <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/cloudflare-logo.svg" width="250" draggable="false"/>
       </a>
     </div>

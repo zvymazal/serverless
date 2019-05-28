@@ -1,6 +1,6 @@
 <!--
 title: Serverless - Cloudflare Workers Documentation
-menuText: Cloudflare Workers
+menuText: Cloudflare
 layout: Doc
 -->
 

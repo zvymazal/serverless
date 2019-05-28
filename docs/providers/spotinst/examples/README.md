@@ -10,11 +10,15 @@ menuOrder: 4
 ### [Read this on the main serverless docs site](https://www.serverless.com/framework/docs/providers/aws/examples/hello-world/)
 <!-- DOCS-SITE-LINK:END -->
 
-# Hello World Serverless Example 
+# Serverless Spotinst Examples
 
-Pick your language of choice:
+Have an example? Submit it in [Github](https://github.com/serverless/examples).
 
-* [JavaScript](./node)
-* [Python](./python)
-* [Ruby](./ruby)
-* [Java8](./java8)
+<div class="examples">
+    <div class="example">
+        <span class="language">nodeJS</span>
+        <h5 class="title">Spotinst Node Simple</h5>
+        <p class="description">Boilerplate project repository for Spotinst provider with Serverless Framework.</p>
+        <a href="" class="github">go to github ></a>
+    </div>
+</div>
