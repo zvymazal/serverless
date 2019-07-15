@@ -20,6 +20,7 @@ layout: Doc
     <div class="docsProviderItems">
       <ul>
         <li><a href="./guide/intro.md">Intro</a></li>
+        <li><a href="./guide/quick-start.md">Quickstart</a></li>
         <li><a href="./guide/installation.md">Installation</a></li>
         <li><a href="./guide/credentials.md">Credentials</a></li>
         <li><a href="./guide/services.md">Services</a></li>
