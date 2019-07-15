@@ -37,3 +37,67 @@ menuItems:
 The Serverless Framework helps you build serverless apps with radically less overhead and cost. It provides a powerful, unified experience to develop, deploy, test, secure and monitor your serverless applications.
 
 If you are new to serverless and want to experience how fast and easy it is to build a serverless app, or if you are an experienced user of the Serverless Framework open source CLI and want to explore new features of the Framework, you can get started **[here](./getting-started.md)**, for free.
+
+## Providers
+
+<div class="providersSections">
+  <a href="./providers/aws/">
+  <div class="providerSection">
+    <div class="providerSectionHeader">
+        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/aws-logo.svg" width="250" draggable="false" class='aws-logo' />
+    </div>
+  </div>
+  </a>
+  <a href="./providers/azure/">
+  <div class="providerSection">
+    <div class="providerSectionHeader">
+        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/azure-logo.svg" width="250" draggable="false" class='azure-logo'/>
+    </div>
+  </div>
+  </a>
+  <a href="./providers/openwhisk/">
+  <div class="providerSection">
+    <div class="providerSectionHeader">
+        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/openwhisk-logo.svg" width="250" draggable="false" class='openwhisk-logo'/>
+    </div>
+  </div>
+  </a>
+  <a href="./providers/google/">
+  <div class="providerSection">
+    <div class="providerSectionHeader">
+        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/google-logo.png" width="250" draggable="false" class='google-logo'/>
+    </div>
+  </div>
+  </a>
+  <a href="./providers/kubeless/">
+  <div class="providerSection">
+    <div class="providerSectionHeader">
+        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/kubeless-logo.svg" width="250" draggable="false" class='kubeless-logo'/>
+    </div>
+  </div>
+  </a>
+  <a href="./providers/spotinst/">
+  <div class="providerSection">
+    <div class="providerSectionHeader">
+        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/spotinst-logo.svg" width="250" draggable="false" class='spotinst-logo'/>
+    </div>
+  </div>
+  </a>
+  <a href="./providers/fn/">
+  <div class="providerSection">
+    <div class="providerSectionHeader">
+        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/fn-logo.svg" width="250" draggable="false" class='fn-logo'/>
+    </div>
+  </div>
+  </a>
+  <a href="./providers/cloudflare/">
+  <div class="providerSection">
+    <div class="providerSectionHeader">
+        <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs/cloudflare-logo.svg" width="250" draggable="false" class='cloudflare-logo'/>
+    </div>
+  </div>
+  </a>
+
+</div>
+<br/>
+<br/>
