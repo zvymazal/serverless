@@ -12,20 +12,12 @@ layout: Doc
 
 # Azure Functions Provider Documentation
 
-Welcome to the Serverless Azure Functions documentation!
-
-If you have any questions, [search the forums](https://forum.serverless.com?utm_source=framework-docs) or [start your own thread](https://forum.serverless.com?utm_source=framework-docs)
-
-**Note:** [Azure Functions system credentials](./guide/credentials.md) are required for using serverless + Azure Functions.
-
 <div class="docsSections">
   <div class="docsSection">
-    <div class="docsSectionHeader">
-      <a href="./guide/">
-      <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs_guide_azure.jpg" alt="Serverless Framework Microsoft Azure Guide" width="250" draggable="false"/>
-      </a>
+    <div class="docsSectionSubHeader">
+     <h4>Guides</h4>
     </div>
-    <div class="test">
+    <div class="docsProviderItems">
       <ul>
         <li><a href="./guide/intro.md">Intro</a></li>
         <li><a href="./guide/quick-start.md">Quickstart</a></li>
@@ -45,12 +37,10 @@ If you have any questions, [search the forums](https://forum.serverless.com?utm_
   </div>
 
   <div class="docsSection">
-    <div class="docsSectionHeader">
-      <a href="./cli-reference/">
-      <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs_cli_azure.jpg" alt="Serverless Framework Microsoft Azure CLI Reference" width="250" draggable="false"/>
-      </a>
+    <div class="docsSectionSubHeader">
+      <h4>CLI References</h4>
     </div>
-    <div>
+    <div class="docsProviderItems">
       <ul>
         <li><a href="./cli-reference/install.md">Install</a></li>
         <li><a href="./cli-reference/deploy.md">Deploy</a></li>
@@ -69,12 +59,10 @@ If you have any questions, [search the forums](https://forum.serverless.com?utm_
   </div>
 
   <div class="docsSection">
-    <div class="docsSectionHeader">
-      <a href="./events/">
-      <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs_events_azure.jpg" alt="Serverless Framework Microsoft Azure Events"  width="250" draggable="false"/>
-      </a>
+    <div class="docsSectionSubHeader">
+      <h4>Events</h4>
     </div>
-    <div>
+    <div class="docsProviderItems">
       <ul>
         <li><a href="./events/http.md">HTTP</a></li>
         <li><a href="./events/timer.md">Timer</a></li>
@@ -88,17 +76,13 @@ If you have any questions, [search the forums](https://forum.serverless.com?utm_
   </div>
 
   <div class="docsSection">
-    <div class="docsSectionHeader">
-      <a href="./examples/">
-      <img src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/docs_examples_azure.jpg" alt="Serverless Framework Microsoft Azure Examples" width="250" draggable="false"/>
-      </a>
+    <div class="docsSectionSubHeader">
+      <h4>Examples</h4>
     </div>
-    <div>
-      <div>
+    <div class="docsProviderItems">
         <ul>
           <li><a href="./examples/hello-world">Hello World</a></li>
         </ul>
       </div>
-    </div>
   </div>
 </div>

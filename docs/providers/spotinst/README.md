@@ -12,16 +12,10 @@ layout: Doc
 
 # Spotinst Provider Documentation
 
-Welcome to the Serverless Spotinst documentation!
-
-If you have any questions, [search the forums](https://forum.serverless.com?utm_source=framework-docs) or [start your own thread](https://forum.serverless.com?utm_source=framework-docs)
-
 <div class="docsSections">
   <div class="docsSection">
-    <div class="docsSectionHeader">
-      <a href="./guide/">
-      <img src="https://s3.amazonaws.com/spotinst-public/assets/serverless-docs/functions_guide.jpg" alt="Serverless Spotinst Guide" width="250" draggable="false"/>
-      </a>
+    <div class="docsSectionSubHeader">
+      <h4>Guides</h4>
     </div>
     <div>
       <ul>
@@ -40,12 +34,10 @@ If you have any questions, [search the forums](https://forum.serverless.com?utm_
   </div>
 
   <div class="docsSection">
-    <div class="docsSectionHeader">
-      <a href="./cli-reference/">
-      <img src="https://s3.amazonaws.com/spotinst-public/assets/serverless-docs/functions_cli.jpg" alt="Serverless Spotinst CLI Reference" width="250" draggable="false"/>
-      </a>
+    <div class="docsSectionSubHeader">
+      <h4>CLI References</h4>
     </div>
-    <div>
+    <div class="docsProviderItems">
       <ul>
         <li><a href="./cli-reference/config-credentials.md">Config Credentials</a></li>
         <li><a href="./cli-reference/create.md">Create</a></li>
@@ -65,12 +57,10 @@ If you have any questions, [search the forums](https://forum.serverless.com?utm_
   </div>
 
   <div class="docsSection">
-    <div class="docsSectionHeader">
-      <a href="./events/">
-      <img src="https://s3.amazonaws.com/spotinst-public/assets/serverless-docs/functions_+events.jpg" alt="Serverless Spotinst Events"  width="250" draggable="false"/>
-      </a>
+    <div class="docsSectionSubHeader">
+      <h4>Events</h4>
     </div>
-    <div>
+    <div class="docsProviderItems">
       <ul>
         <li><a href="./events/http.md">HTTP</a></li>
         <li><a href="./events/schedule.md">Schedule</a></li>
@@ -79,17 +69,13 @@ If you have any questions, [search the forums](https://forum.serverless.com?utm_
   </div>
 
   <div class="docsSection">
-    <div class="docsSectionHeader">
-      <a href="./examples/">
-      <img src="https://s3.amazonaws.com/spotinst-public/assets/serverless-docs/functions_examples.jpg" alt="Serverless Spotinst Examples" width="250" draggable="false"/>
-      </a>
+    <div class="docsSectionSubHeader">
+      <h4>Examples</h4>
     </div>
-    <div>
-      <div>
+    <div class="docsProviderItems">
         <ul>
           <li><a href="./examples/">Hello World</a></li>
         </ul>
-      </div>
     </div>
   </div>
 </div>

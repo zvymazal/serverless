@@ -12,18 +12,12 @@ layout: Doc
 
 # Fn Provider Documentation
 
-Welcome to the Serverless Fn documentation!
-
-If you have any questions, [search the forums](https://forum.serverless.com?utm_source=framework-docs) or [start your own thread](https://forum.serverless.com?utm_source=framework-docs)
-
 <div class="docsSections">
   <div class="docsSection">
-    <div class="docsSectionHeader">
-      <a href="./guide/">
-        Fn Guide
-      </a>
+    <div class="docsSectionSubHeader">
+      <h4>Guides</h4>
     </div>
-    <div class="test">
+    <div class="docsProviderItems">
       <ul>
         <li><a href="./guide/intro.md">Intro</a></li>
         <li><a href="./guide/quick-start.md">Quickstart</a></li>
@@ -39,12 +33,10 @@ If you have any questions, [search the forums](https://forum.serverless.com?utm_
   </div>
 
   <div class="docsSection">
-    <div class="docsSectionHeader">
-      <a href="./cli-reference/">
-        Fn CLI Reference
-      </a>
+    <div class="docsSectionSubHeader">
+      <h4>CLI References</h4>
     </div>
-    <div>
+    <div class="docsProviderItems">
       <ul>
         <li><a href="./cli-reference/create.md">Create</a></li>
         <li><a href="./cli-reference/deploy.md">Deploy</a></li>
@@ -61,12 +53,10 @@ If you have any questions, [search the forums](https://forum.serverless.com?utm_
   </div>
 
   <div class="docsSection">
-    <div class="docsSectionHeader">
-      <a href="./events/">
-        Fn Events Reference
-      </a>
+    <div class="docsSectionSubHeader">
+      <h4>Events References</h4>
     </div>
-    <div>
+    <div class="docsProviderItems">
       <ul>
         <li><a href="./events/http.md">HTTP Events</a></li>
       </ul>
